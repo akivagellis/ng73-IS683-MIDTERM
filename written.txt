@@ -1,0 +1,39 @@
+t does the acronym KISS mean and how does following this make you a better computer programmer?
+KISS stands for keep it simple, stupid and it represents the idea that programmers should not have extranneous code in their program. Following this approach is ideal because it makes one's code easier to read thereby enabling other programmers to easily read and use your code.  
+2.	What does the acronym DRY mean and why is it an essential principle of being a good computer programmer?
+DRY stands for don't repeat yourself and the importance of practicing this is importantant because if one part of the program is changed other aspects that are logically related will also be changed in a predictable fashion and it will not affect other elements that are not related. It also makes large programs easier to maintain.
+3.	What is the difference between a database like MongoDB and MySQL?
+MongoDB is scalable, MySql is not.
+4.	If you were asked to write a program that could write at least 50 different HTML tags how would you do it?
+I would create a program that allows the user to pass whatever tag he'd want to write as arguments in a function that will then automatically generate that tag.
+5.	What software design pattern would you be demonstrating in in the above solution?
+The factory pattern.
+6.	What version control system(s) have you used? 
+The only version control system I've used is Git.
+7.	What is GitHub and have you ever used it?  
+GitHub is a web-based hosting service for programming projects that use the Git revision control system. It allows users to create repositories where they can store their programs and where other people can view the code and edit/add to it if permitted by the original creator. I have used it in academic projects in school.
+8.	What is the command to create a GIT repository
+git init
+9.	What is the command to tell GIT to start tracking the file?
+git add 
+10.	What is the command to commit your changes to the GIT log?
+git commit 
+11.	What is the command to add a remote repository?
+git remote add 
+12.	What is the command to send your committed changes to the remote repository?
+git push
+13.	What is your experience working in a software development team?
+My experience working in a software development team has been largely academic. In school I've worked on several projects as part of a team and I've found the experience of wworking with colleagues towards a specific goal immensely enjoyable.
+14.	How would you create a new file and directory in linux?\
+I'd use touch new.file to create a new file and mkdir directory to create a new directory. 
+15.	How would you set the permissions on a file / folder, so that another user can write to it.   i.e. so you the webserver can upload a file to the directory.chmod a+r directory.html <operator> 
+16.	What program do you use to write your PHP code? notepad ++
+17.	What is a constructor in PHP and how/why would you use it?
+Constructors are functions in a class that are automatically called when you create a new instance of a class with new. You'd use it to instantiate aan object of a class.
+18.	What is the difference between a class and an object?
+A class is what you use to define the properties, methods and behavior of objects. Objects are the things you create out of a class.
+19.	Why is it important to comment / document your code? so that people will understand whats being written.
+20.	What traits do you think a good computer programmer has?
+Detail oriented, logical, patient, thorough, professional and desire to succeed.
+
+
