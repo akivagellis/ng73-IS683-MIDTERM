@@ -11,7 +11,7 @@ $content = "lotsastuff";
 
 function tag($tag, $attributes, $content) {
 
- validate$attributes);
+ validate($attributes);
 
         $output = '<' . $tag;
 
@@ -76,7 +76,7 @@ function validate($value) {
 
                 $tag = 'p';
 
-                $atributes = array("class"=>"body");
+                $attributes = array("class"=>"body");
 
                 break;
 
@@ -88,7 +88,7 @@ function validate($value) {
 
       }
 
-    create($tag,$attributes,$content);
+    createtag($tag,$attributes,$content);
 
  
 
