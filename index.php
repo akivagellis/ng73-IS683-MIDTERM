@@ -1,4 +1,6 @@
-ttributes = array();
+<?php
+
+$attributes = array();
 
 $tag = '';
 
@@ -91,5 +93,4 @@ function validate($value) {
  
 
 ?>
-
 
