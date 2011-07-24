@@ -1,0 +1,127 @@
+#container{
+    margin-left:auto;
+    margin-right: auto;
+    width: 960px;
+    height: 950px;
+}
+#container .column 
+{
+    position:relative;
+    float:left;
+}
+#container a{
+    color: hotpink;
+}
+#container a:hover{
+    color:white;
+}
+#banner {
+    background-color:deepskyblue;
+    text-align:center;
+    line-height: 75px;
+    color:yellow;
+    height: 75px;
+}
+#primaryLinks  ol{
+    background-color: deepskyblue;
+    height: 25px;
+    line-height:25px;
+    margin: 0px;
+    text-align:center;
+}
+#primaryLinks  ul{  /*secondary link*/
+    background-color:royalblue;
+    height: 25px;
+    line-height:25px;
+    margin: 0px;
+    text-align:center;
+}
+#primaryLinks  li{
+    display: inline;
+}
+#left{
+    width:190px;
+    background-color:dodgerblue;
+    float: left;
+    height: 700px;
+}
+
+#center{
+   
+    text-align:center;
+    color:maroon;
+    background-color:aquamarine;
+    width: 580px;
+    height: 700px;
+    float: left;
+	right: 190px;
+  }
+#right{
+    width: 190px;
+    background-color:cornflowerblue;
+    float: right;
+    height: 700px;
+	left:580px;
+}  
+table
+{
+    width:110px;
+    margin-left:25%;
+    border:2px solid black;
+    padding: 0px;
+}
+.rowheader{
+    text-decoration: underline;
+    color:sgibeet;
+    background-color:magenta;
+}
+.odd{
+    color:springgreen;
+    background-color:steelblue;
+}
+.even{
+    color:steelblue;
+    background-color:springgreen;
+}
+
+h1
+{
+    color:blue;
+}
+h2
+{
+    color:chartreuse;
+}
+h3
+{
+    color:brown;
+}
+h4
+{
+    color:chocolate;
+}
+h5
+{
+    color:aquamarine;
+}
+h6
+{
+	color:crimson;
+}
+#block
+{
+    font-style:italic;
+    color:LightCoral;
+}
+#footer{
+    background-color:royalblue;
+    width:500px;
+    clear:both;
+    height: 500px;
+    margin-top: 500px;
+    text-align:center ; 
+    color:#FFA500;
+}
+
+
+
